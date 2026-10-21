@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhkkx\\Desktop\\PLHW2\\HW3.33\\HW3.33\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC166443-E3BA-41A4-8A6E-5E25035A7662}|HW3.33\\HW3.33.vcxproj|C:\\Users\\mhkkx\\Desktop\\PLHW2\\HW3.33\\source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\mhkkx\\Desktop\\PLHW2\\HW3.33\\source\\main.c",
+              "RelativeDocumentMoniker": "..\\source\\main.c",
+              "ToolTip": "C:\\Users\\mhkkx\\Desktop\\PLHW2\\HW3.33\\source\\main.c",
+              "RelativeToolTip": "..\\source\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-21T00:37:13.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
